@@ -1,0 +1,263 @@
+{
+  "style_id": "style_7",
+  "name": "Low Angle Minimal Streetwear Sneaker Editorial",
+  "image_reference": {
+    "type": "minimal_streetwear_fashion_editorial",
+    "orientation": "vertical",
+    "aspect_ratio": "2:3",
+    "framing": "full_body",
+    "camera_angle": "extreme_low_angle",
+    "camera_position": "near_floor_level",
+    "subject_position": "centered",
+    "visual_style": [
+      "minimal streetwear",
+      "sneaker editorial",
+      "low angle fashion photography",
+      "clean studio wall",
+      "contemporary urban fashion"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "slightly leaned back",
+      "hips": "slightly shifted",
+      "shoulders": "relaxed and asymmetric",
+      "head": "slightly tilted down toward camera"
+    },
+    "pose": {
+      "overall": "confident standing streetwear pose with one foot projected toward the lens",
+      "movement": "static fashion pose with strong forced perspective",
+      "head": {
+        "direction": "facing camera",
+        "rotation": "minimal",
+        "tilt": "slightly downward",
+        "chin": "slightly lowered"
+      },
+      "gaze": {
+        "direction": "directly at camera",
+        "expression": "confident and detached"
+      },
+      "left_arm": {
+        "position": "relaxed downward",
+        "elbow": "slightly bent",
+        "hand_position": "alongside hip and upper thigh"
+      },
+      "right_arm": {
+        "position": "bent",
+        "elbow": "relaxed",
+        "hand_position": "inside or resting on front pocket"
+      },
+      "legs": {
+        "stance": "wide asymmetrical standing stance",
+        "front_leg": "extended dramatically toward camera",
+        "rear_leg": "supporting body farther from lens",
+        "movement": "foot thrust forward to emphasize sneaker sole"
+      },
+      "expression": {
+        "mood": [
+          "confident",
+          "cool",
+          "minimal",
+          "streetwear",
+          "editorial"
+        ],
+        "mouth": "relaxed and closed",
+        "eyes": "direct eye contact"
+      }
+    },
+    "hair": {
+      "color": "dark brown",
+      "length": "long",
+      "style": "high sleek ponytail",
+      "texture": "straight",
+      "details": [
+        "clean pulled-back crown",
+        "long ponytail falling behind shoulder"
+      ]
+    },
+    "makeup": {
+      "style": "clean editorial",
+      "eyes": [
+        "subtle eyeliner",
+        "defined lashes"
+      ],
+      "lips": "natural neutral tone",
+      "complexion": "clean matte to natural finish"
+    },
+    "clothing": {
+      "top": {
+        "type": "short_sleeve_cropped_tshirt",
+        "color": "deep burgundy",
+        "fit": "fitted",
+        "length": "cropped above waist",
+        "neckline": "round crew neck",
+        "details": [
+          "minimal construction",
+          "clean fitted silhouette"
+        ]
+      },
+      "bottom": {
+        "type": "oversized_cargo_pants",
+        "color": "very light gray to off-white",
+        "fit": "extremely baggy",
+        "waist": "mid rise",
+        "fabric": "structured cotton or canvas",
+        "details": [
+          "large cargo pockets",
+          "visible seams",
+          "wide legs",
+          "heavy fabric folds",
+          "oversized streetwear silhouette"
+        ]
+      },
+      "footwear": {
+        "type": "low_top_sneakers",
+        "color_palette": [
+          "white",
+          "purple"
+        ],
+        "style": "retro basketball sneaker",
+        "details": [
+          "contrasting purple overlays",
+          "white base",
+          "thick rubber sole",
+          "front shoe sole dominating foreground"
+        ]
+      }
+    },
+    "accessories": {
+      "necklace": {
+        "type": "simple chain necklace",
+        "material": "silver tone",
+        "style": "minimal"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "full body",
+    "camera_distance": "close full-body with exaggerated foreground",
+    "perspective": "extreme forced perspective",
+    "subject_scale": "dominant in frame",
+    "foreground_emphasis": "very high",
+    "shoe_emphasis": "extreme",
+    "negative_space": "large clean light background",
+    "symmetry": "asymmetric due to projected leg"
+  },
+  "camera": {
+    "lens_equivalent": "approximately 20mm to 28mm",
+    "lens_type": "ultra_wide_to_wide_angle",
+    "camera_height": "floor level",
+    "camera_tilt": "strong upward tilt",
+    "focus": "subject and foreground sneaker readable",
+    "depth_of_field": "moderate to deep",
+    "background_blur": "minimal",
+    "distortion": "intentional strong perspective exaggeration"
+  },
+  "lighting": {
+    "type": "soft studio or bright diffused indoor light",
+    "quality": "soft",
+    "direction": "frontal and slightly upper",
+    "contrast": "low to medium",
+    "highlights": {
+      "strength": "controlled",
+      "areas": [
+        "face",
+        "top",
+        "cargo pants",
+        "sneakers"
+      ]
+    },
+    "shadows": {
+      "strength": "soft",
+      "areas": [
+        "behind subject on wall",
+        "under clothing folds",
+        "under projected shoe"
+      ]
+    },
+    "skin_rendering": "clean natural editorial finish",
+    "overall_effect": "bright minimalist sneaker campaign"
+  },
+  "environment": {
+    "type": "minimal_studio_or_clean_wall",
+    "location_style": "plain light-lilac or cool-white wall and floor",
+    "background_elements": [
+      "smooth wall",
+      "clean floor",
+      "soft cast shadow"
+    ],
+    "depth": "shallow to moderate",
+    "graphic_elements": {
+      "visible_mark": "small circular sun-like icon near lower right",
+      "usage_note": "omit logos, watermark-like marks and decorative interface elements unless explicitly requested"
+    }
+  },
+  "color_grading": {
+    "palette": [
+      "deep burgundy",
+      "off-white",
+      "light gray",
+      "purple",
+      "soft lilac",
+      "neutral skin tones"
+    ],
+    "temperature": "neutral to slightly cool",
+    "contrast": "moderate",
+    "saturation": "controlled",
+    "black_level": "moderate",
+    "overall_feel": "clean modern streetwear campaign"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "front_leg_projection": 1.0,
+    "shoe_perspective": 1.0,
+    "camera_angle": 1.0,
+    "low_angle_perspective": 1.0,
+    "body_orientation": 0.95,
+    "clothing_structure": 1.0,
+    "cargo_pants_volume": 1.0,
+    "footwear": 1.0,
+    "hair_style": 0.85,
+    "lighting": 0.9,
+    "background": 0.9,
+    "color_grading": 0.9,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "full-body standing pose",
+      "one foot projected dramatically toward camera",
+      "extreme low-angle camera",
+      "upward camera tilt",
+      "forced perspective",
+      "direct camera gaze",
+      "fitted burgundy cropped t-shirt",
+      "very oversized light cargo pants",
+      "purple-and-white sneakers",
+      "sleek high ponytail styling",
+      "minimal silver necklace",
+      "plain light studio wall",
+      "soft cast shadow",
+      "minimal streetwear sneaker-campaign atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color unless explicitly changed",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use the source image only as reference for pose, wardrobe, forced perspective, camera placement, lighting and overall styling. Preserve the target person's identity and natural proportions. The projected shoe may appear intentionally oversized due to perspective, but anatomy should remain plausible."
+  }
+}
