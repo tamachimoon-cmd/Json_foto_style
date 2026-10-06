@@ -1,0 +1,241 @@
+{
+  "style_id": "style_8",
+  "name": "Casual Bathroom Mirror Selfie",
+  "image_reference": {
+    "type": "casual_mirror_selfie",
+    "orientation": "vertical",
+    "aspect_ratio": "3:4",
+    "framing": "mid_thigh_portrait",
+    "camera_angle": "mirror_eye_level",
+    "camera_position": "phone_held_front_left",
+    "subject_position": "centered",
+    "visual_style": [
+      "casual lifestyle",
+      "mirror selfie",
+      "soft home portrait",
+      "minimal social media aesthetic",
+      "natural indoor photography"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "mostly frontal",
+      "hips": "slightly shifted",
+      "shoulders": "relaxed and asymmetric",
+      "head": "slightly tilted"
+    },
+    "pose": {
+      "overall": "relaxed bathroom mirror selfie pose",
+      "movement": "static",
+      "head": {
+        "direction": "toward mirror/camera",
+        "tilt": "slight",
+        "chin": "neutral"
+      },
+      "gaze": {
+        "direction": "toward phone screen or mirror",
+        "expression": "calm and neutral"
+      },
+      "left_arm": {
+        "position": "raised forward holding smartphone",
+        "elbow": "bent",
+        "hand_position": "phone held in front of upper torso"
+      },
+      "right_arm": {
+        "position": "raised above head",
+        "elbow": "bent",
+        "hand_position": "resting on top of head/hair"
+      },
+      "hips": {
+        "shift": "subtle lateral shift",
+        "stance": "relaxed"
+      },
+      "expression": {
+        "mood": [
+          "casual",
+          "calm",
+          "intimate",
+          "natural",
+          "everyday"
+        ],
+        "mouth": "relaxed",
+        "eyes": "soft direct or screen-focused gaze"
+      }
+    },
+    "hair": {
+      "color": "black",
+      "length": "long",
+      "texture": "straight",
+      "style": "loose",
+      "parting": "center",
+      "details": [
+        "smooth finish",
+        "falls over shoulders",
+        "minimal styling"
+      ]
+    },
+    "makeup": {
+      "style": "minimal natural",
+      "complexion": "natural skin finish",
+      "eyes": "light definition",
+      "lips": "natural pink tone"
+    },
+    "clothing": {
+      "top": {
+        "type": "cropped_long_sleeve_sweatshirt",
+        "color": "deep navy blue",
+        "fit": "relaxed",
+        "length": "cropped above waist",
+        "neckline": "wide crew neck",
+        "details": [
+          "soft fabric",
+          "slightly oversized sleeves",
+          "minimalist lounge style"
+        ]
+      },
+      "bottom": {
+        "type": "sleep_or_lounge_shorts",
+        "color": "light pink",
+        "fit": "loose",
+        "waist": "elastic",
+        "details": [
+          "small repeating dark heart pattern",
+          "black drawstring bow",
+          "ruffled hem",
+          "soft pajama fabric"
+        ]
+      }
+    },
+    "accessories": {
+      "necklaces": {
+        "quantity": "multiple delicate layers",
+        "material": "gold tone",
+        "style": "minimal"
+      },
+      "smartphone": {
+        "type": "modern triple-camera smartphone",
+        "color": "white",
+        "role": "visible mirror-selfie prop"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "from upper thighs to above head",
+    "camera_distance": "close-medium via mirror",
+    "perspective": "natural smartphone mirror perspective",
+    "subject_scale": "dominant in frame",
+    "negative_space": "moderate bathroom wall around subject",
+    "framing_style": "casual social-media selfie"
+  },
+  "camera": {
+    "capture_method": "mirror selfie",
+    "device_style": "smartphone camera",
+    "lens_equivalent": "approximately 24mm to 28mm",
+    "camera_height": "upper torso to eye level",
+    "camera_tilt": "minimal",
+    "focus": "subject and mirror plane",
+    "depth_of_field": "deep",
+    "background_blur": "minimal",
+    "distortion": "mild smartphone wide-angle"
+  },
+  "lighting": {
+    "type": "soft indoor bathroom lighting",
+    "quality": "diffused",
+    "direction": "frontal and overhead ambient",
+    "contrast": "low",
+    "highlights": {
+      "strength": "soft",
+      "areas": [
+        "face",
+        "hair",
+        "phone",
+        "upper torso"
+      ]
+    },
+    "shadows": {
+      "strength": "gentle",
+      "areas": [
+        "under hair",
+        "neck",
+        "clothing folds"
+      ]
+    },
+    "skin_rendering": "natural and soft",
+    "overall_effect": "quiet casual indoor selfie"
+  },
+  "environment": {
+    "type": "bathroom",
+    "location_style": "home bathroom",
+    "background_elements": [
+      "light ceramic wall tiles",
+      "towel rack",
+      "light towel",
+      "wooden door frame",
+      "bathroom counter edge"
+    ],
+    "wall_color": "light beige to off-white",
+    "depth": "shallow"
+  },
+  "color_grading": {
+    "palette": [
+      "navy blue",
+      "light pink",
+      "off-white",
+      "warm beige",
+      "black",
+      "soft skin tones"
+    ],
+    "temperature": "neutral to slightly warm",
+    "contrast": "low",
+    "saturation": "moderate",
+    "black_level": "soft",
+    "overall_feel": "cozy natural lifestyle selfie"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "mirror_selfie_structure": 1.0,
+    "phone_position": 1.0,
+    "raised_hand_position": 0.98,
+    "body_orientation": 0.95,
+    "clothing_structure": 1.0,
+    "hair_style": 0.9,
+    "lighting": 0.9,
+    "bathroom_environment": 0.95,
+    "color_grading": 0.9,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "bathroom mirror selfie composition",
+      "phone held in front of upper torso",
+      "opposite hand resting on top of head",
+      "relaxed frontal stance",
+      "long straight hair layout",
+      "navy cropped long-sleeve top",
+      "pink lounge shorts with heart pattern",
+      "black drawstring",
+      "light tiled bathroom setting",
+      "soft indoor lighting",
+      "casual intimate social-media aesthetic"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color unless explicitly changed",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use the source image only as reference for pose, mirror-selfie setup, wardrobe, environment and lighting. Preserve the target person's identity and natural proportions."
+  }
+}
