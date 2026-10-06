@@ -1,0 +1,222 @@
+{
+  "style_id": "style_1",
+  "name": "Fashion Editorial Streetwear",
+  "image_reference": {
+    "type": "fashion_editorial_portrait",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "medium_full_portrait",
+    "camera_angle": "eye_level",
+    "subject_position": "centered",
+    "visual_style": [
+      "fashion editorial",
+      "early 2000s streetwear",
+      "alternative fashion",
+      "urban pop",
+      "studio photography"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "slightly angled",
+      "hips": "slightly shifted to one side",
+      "shoulders": "asymmetrical",
+      "head": "mostly frontal"
+    },
+    "pose": {
+      "overall": "confident relaxed fashion pose",
+      "head": {
+        "direction": "facing camera",
+        "tilt": "very slight",
+        "chin": "neutral"
+      },
+      "left_arm": {
+        "position": "raised toward face",
+        "elbow": "bent",
+        "hand_position": "in front of mouth",
+        "finger_action": "index finger lightly touching lower lip"
+      },
+      "right_arm": {
+        "position": "bent downward",
+        "hand_position": "resting around hip and front pocket area",
+        "elbow": "projecting slightly outward"
+      },
+      "hips": {
+        "shift": "subtle lateral shift",
+        "stance": "relaxed"
+      },
+      "expression": {
+        "mood": [
+          "confident",
+          "serious",
+          "slightly provocative",
+          "editorial"
+        ],
+        "eyes": "direct eye contact with camera",
+        "mouth": "slightly parted"
+      }
+    },
+    "hair": {
+      "color": "black",
+      "length": "shoulder_length",
+      "texture": "straight",
+      "style": "layered bob",
+      "bangs": "straight wispy bangs across forehead"
+    },
+    "headwear": {
+      "type": "bandana",
+      "placement": "covering crown and upper hair",
+      "color_palette": [
+        "white",
+        "blue",
+        "navy"
+      ],
+      "pattern": "tie_dye_or_cloud_like"
+    },
+    "clothing": {
+      "top": {
+        "type": "halter_top",
+        "primary_color": "black",
+        "fit": "fitted",
+        "neckline": "halter",
+        "hem": "asymmetrical pointed front",
+        "details": {
+          "front_graphic": "white graffiti-style graphic",
+          "side_panels": "black lace",
+          "lace_visibility": "visible along side torso and waist",
+          "style": "alternative streetwear"
+        }
+      },
+      "bottom": {
+        "type": "low_rise_jeans",
+        "color": "washed black",
+        "fit": "relaxed",
+        "waist": "low rise",
+        "details": [
+          "visible belt loops",
+          "front pockets",
+          "metal button",
+          "dark denim texture"
+        ]
+      },
+      "underlayer": {
+        "type": "lace waistband",
+        "color": "black",
+        "visibility": "visible above jeans",
+        "style": "delicate lace trim"
+      }
+    },
+    "accessories": {
+      "earrings": {
+        "type": "large hoop earrings",
+        "material": "silver tone"
+      },
+      "necklace": {
+        "type": "short chain necklace",
+        "material": "silver tone"
+      },
+      "rings": {
+        "quantity": "multiple",
+        "material": "silver tone",
+        "placement": "several fingers on both hands",
+        "style": "stacked rings"
+      },
+      "bracelets": {
+        "left_wrist": [
+          "silver chain bracelet",
+          "layered chain accessories"
+        ],
+        "right_wrist": [
+          "silver chain bracelet"
+        ]
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "approximately upper thighs upward",
+    "camera_distance": "medium",
+    "perspective": "natural portrait perspective",
+    "subject_scale": "occupies most of frame",
+    "negative_space": "moderate around head and shoulders",
+    "symmetry": "mostly centered with asymmetric arm pose"
+  },
+  "lighting": {
+    "setup": "soft studio lighting",
+    "key_light": {
+      "position": "front upper side",
+      "quality": "large soft source"
+    },
+    "fill_light": {
+      "strength": "moderate",
+      "purpose": "retain facial and clothing detail"
+    },
+    "contrast": "medium low",
+    "shadow_edges": "soft",
+    "skin_rendering": "smooth natural",
+    "highlights": "controlled"
+  },
+  "background": {
+    "type": "seamless_studio_background",
+    "color": "soft periwinkle blue",
+    "texture": "smooth",
+    "gradient": "subtle",
+    "objects": "none",
+    "depth": "minimal"
+  },
+  "camera": {
+    "lens_equivalent": "approximately 50mm to 85mm",
+    "aperture_look": "moderate depth of field",
+    "focus": "sharp on eyes and face",
+    "background_focus": "slightly softened",
+    "distortion": "minimal",
+    "image_quality": "high resolution editorial photograph"
+  },
+  "color_grading": {
+    "palette": [
+      "black",
+      "silver",
+      "periwinkle blue",
+      "cool white"
+    ],
+    "temperature": "slightly cool",
+    "saturation": "moderate",
+    "contrast": "moderate",
+    "skin_tones": "natural warm neutral",
+    "overall_feel": "clean cool-toned fashion campaign"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "body_orientation": 1.0,
+    "hand_position": 1.0,
+    "clothing_structure": 0.95,
+    "accessories": 0.9,
+    "camera_composition": 0.95,
+    "lighting": 0.9,
+    "background": 0.85,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "pose",
+      "body positioning",
+      "hand placement",
+      "finger touching lower lip",
+      "camera angle",
+      "framing",
+      "clothing",
+      "bandana",
+      "accessories",
+      "lighting",
+      "background",
+      "fashion editorial atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "important": "When applying this JSON to another person, preserve the target person's identity, face, body proportions, skin tone, hair characteristics and distinctive features while transferring the reference pose, clothing, accessories, composition and lighting."
+  }
+}
