@@ -1,0 +1,283 @@
+{
+  "style_id": "style_2",
+  "name": "Urban Streetwear Low Angle",
+  "image_reference": {
+    "type": "urban_fashion_editorial",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "full_body",
+    "camera_angle": "low_angle",
+    "camera_position": "below_waist_level",
+    "subject_position": "centered",
+    "visual_style": [
+      "urban streetwear",
+      "fashion editorial",
+      "city photography",
+      "early 2000s influence",
+      "cinematic street fashion"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "slightly turned",
+      "hips": "angled",
+      "shoulders": "relaxed and asymmetric",
+      "head": "turned to the left side of frame"
+    },
+    "pose": {
+      "overall": "confident walking fashion pose",
+      "movement": "mid-stride or paused during walking",
+      "head": {
+        "direction": "looking away from camera",
+        "rotation": "toward subject's left",
+        "tilt": "slightly upward",
+        "chin": "raised"
+      },
+      "gaze": {
+        "direction": "off-camera",
+        "height": "slightly above horizon",
+        "expression": "confident and detached"
+      },
+      "left_arm": {
+        "position": "relaxed downward",
+        "elbow": "slightly bent",
+        "hand_position": "near hip"
+      },
+      "right_arm": {
+        "position": "relaxed downward",
+        "elbow": "slightly bent",
+        "hand_position": "near cargo pants pocket"
+      },
+      "legs": {
+        "stance": "walking",
+        "front_leg": "slightly forward",
+        "rear_leg": "supporting body",
+        "movement": "natural stride"
+      },
+      "hips": {
+        "shift": "subtle",
+        "stance": "relaxed"
+      },
+      "expression": {
+        "mood": [
+          "confident",
+          "independent",
+          "urban",
+          "fashion-forward",
+          "slightly aloof"
+        ],
+        "mouth": "relaxed",
+        "eyes": "looking away from camera"
+      }
+    },
+    "hair": {
+      "color": "brown or dark brown",
+      "visibility": "partially covered",
+      "style": "loose strands framing face"
+    },
+    "headwear": {
+      "type": "bandana_or_headscarf",
+      "placement": "wrapped over head",
+      "color": "white",
+      "pattern": "gray newspaper or graphic print",
+      "fit": "loosely tied"
+    },
+    "clothing": {
+      "top": {
+        "type": "cropped_spaghetti_strap_top",
+        "color": "white",
+        "fit": "fitted",
+        "length": "cropped above waist",
+        "neckline": "straight",
+        "straps": "thin",
+        "front_detail": "subtle gathered seam"
+      },
+      "bottom": {
+        "type": "oversized_cargo_pants",
+        "color": "olive_green",
+        "fit": "very loose",
+        "waist": "mid_to_low rise",
+        "fabric": "lightweight utility fabric",
+        "details": [
+          "large cargo pockets",
+          "multiple seams",
+          "utility straps",
+          "baggy silhouette",
+          "gathered ankles",
+          "oversized leg volume"
+        ]
+      },
+      "footwear": {
+        "type": "high_top_sneakers",
+        "color": "white",
+        "style": "chunky streetwear sneakers",
+        "details": [
+          "high ankle",
+          "thick sole",
+          "visible laces"
+        ]
+      }
+    },
+    "accessories": {
+      "necklaces": {
+        "quantity": "multiple",
+        "style": "layered",
+        "material": "metal or cord",
+        "length": "short to medium"
+      },
+      "bracelets": {
+        "type": "minimal bracelet",
+        "placement": "wrist"
+      },
+      "earrings": {
+        "type": "large hoop earrings",
+        "material": "metallic"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "full body",
+    "camera_distance": "medium_long",
+    "perspective": "strong low-angle perspective",
+    "subject_scale": "dominant in frame",
+    "subject_height_emphasis": "high",
+    "vertical_lines": "prominent from surrounding buildings",
+    "negative_space": "urban sky and architecture around subject",
+    "perspective_effect": {
+      "legs": "visually elongated",
+      "torso": "slightly foreshortened",
+      "buildings": "converging vertical perspective"
+    }
+  },
+  "camera": {
+    "lens_equivalent": "approximately 28mm to 40mm",
+    "lens_type": "moderate wide angle",
+    "camera_height": "low",
+    "camera_tilt": "upward",
+    "focus": "subject dominant",
+    "depth_of_field": "moderate",
+    "background_blur": "light",
+    "distortion": "controlled wide-angle perspective"
+  },
+  "lighting": {
+    "type": "natural_daylight",
+    "quality": "hard directional light",
+    "direction": "upper left to frontal side",
+    "contrast": "high",
+    "highlights": {
+      "strength": "strong",
+      "areas": [
+        "face",
+        "shoulders",
+        "top",
+        "upper body"
+      ]
+    },
+    "shadows": {
+      "strength": "deep",
+      "areas": [
+        "side of body",
+        "pants folds",
+        "urban background"
+      ]
+    },
+    "skin_rendering": "warm sunlit",
+    "overall_effect": "high-contrast cinematic street fashion"
+  },
+  "environment": {
+    "type": "urban_city_street",
+    "location_style": "modern metropolitan downtown",
+    "background_elements": [
+      "tall buildings",
+      "glass facade",
+      "older dark building",
+      "street",
+      "parked cars",
+      "distant pedestrians",
+      "urban infrastructure"
+    ],
+    "architecture": {
+      "left_side": "dark older building facade",
+      "right_side": "modern glass high-rise",
+      "background": "mixed metropolitan architecture"
+    },
+    "ground": {
+      "type": "city street or sidewalk",
+      "texture": "concrete or asphalt"
+    },
+    "depth": "deep urban perspective"
+  },
+  "color_grading": {
+    "palette": [
+      "olive green",
+      "white",
+      "warm skin tones",
+      "dark charcoal",
+      "cool gray",
+      "muted teal"
+    ],
+    "temperature": "warm subject with cooler urban background",
+    "contrast": "high",
+    "saturation": "moderate",
+    "black_level": "deep",
+    "highlight_rolloff": "strong",
+    "overall_feel": "cinematic urban editorial"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "body_orientation": 1.0,
+    "walking_stance": 1.0,
+    "camera_angle": 1.0,
+    "low_angle_perspective": 1.0,
+    "clothing_structure": 0.98,
+    "cargo_pants_shape": 1.0,
+    "headwear": 0.95,
+    "footwear": 0.9,
+    "accessories": 0.85,
+    "lighting": 0.95,
+    "urban_environment": 0.95,
+    "color_grading": 0.9,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "full body pose",
+      "walking stance",
+      "head turned away from camera",
+      "chin slightly raised",
+      "low-angle camera",
+      "upward camera tilt",
+      "full-body framing",
+      "white cropped top",
+      "oversized olive cargo pants",
+      "white high-top sneakers",
+      "white graphic bandana",
+      "large hoop earrings",
+      "layered necklaces",
+      "urban city background",
+      "strong sunlight",
+      "deep shadows",
+      "cinematic streetwear atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color",
+      "hair texture",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use this image only as reference for pose, wardrobe, camera angle, environment, lighting and fashion direction. Preserve the target person's identity and natural body proportions."
+  }
+}
