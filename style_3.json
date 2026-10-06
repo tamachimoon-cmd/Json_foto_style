@@ -1,0 +1,290 @@
+{
+  "style_id": "style_3",
+  "name": "Urban Graffiti Squat Editorial",
+  "image_reference": {
+    "type": "urban_fashion_editorial",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "full_body",
+    "camera_angle": "low_to_eye_level",
+    "camera_position": "close and slightly low",
+    "subject_position": "centered",
+    "visual_style": [
+      "urban streetwear",
+      "graffiti editorial",
+      "post-industrial fashion",
+      "y2k street style",
+      "cinematic portrait"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "mostly frontal",
+      "hips": "low squat",
+      "shoulders": "relaxed",
+      "head": "slightly tilted"
+    },
+    "pose": {
+      "overall": "deep squat streetwear pose",
+      "movement": "static posed squat",
+      "head": {
+        "direction": "facing camera",
+        "rotation": "minimal",
+        "tilt": "slight",
+        "chin": "neutral to slightly down"
+      },
+      "gaze": {
+        "direction": "directly at camera",
+        "expression": "calm and confident"
+      },
+      "arms": {
+        "left_arm": {
+          "position": "relaxed between knees",
+          "elbow": "bent",
+          "hand_position": "hanging naturally near center"
+        },
+        "right_arm": {
+          "position": "relaxed between knees",
+          "elbow": "bent",
+          "hand_position": "hanging naturally near center"
+        }
+      },
+      "hands": {
+        "placement": "centered between knees",
+        "fingers": "relaxed and slightly extended",
+        "accessories_visible": true
+      },
+      "legs": {
+        "stance": "wide squat",
+        "knees": "strongly bent and opened outward",
+        "feet": "planted apart",
+        "symmetry": "approximately balanced"
+      },
+      "expression": {
+        "mood": [
+          "confident",
+          "calm",
+          "streetwise",
+          "editorial"
+        ],
+        "mouth": "relaxed",
+        "eyes": "direct eye contact"
+      }
+    },
+    "hair": {
+      "color": "light brown to blonde",
+      "style": "double buns with loose face-framing strands",
+      "texture": "straight to lightly textured",
+      "details": "wispy bangs and loose flyaways"
+    },
+    "clothing": {
+      "top": {
+        "type": "oversized_cropped_graphic_tshirt",
+        "primary_color": "mustard yellow",
+        "secondary_colors": [
+          "white",
+          "blue"
+        ],
+        "fit": "oversized",
+        "length": "cropped",
+        "sleeves": "elbow length",
+        "details": [
+          "large front graphic",
+          "sportswear influence",
+          "boxy silhouette"
+        ]
+      },
+      "bottom": {
+        "type": "oversized_jogger_cargo_pants",
+        "color": "washed gray",
+        "fit": "very loose",
+        "waist": "mid rise with drawstring",
+        "details": [
+          "graffiti-style prints",
+          "elastic cuffs",
+          "side accents",
+          "baggy silhouette",
+          "utility streetwear feel"
+        ]
+      },
+      "footwear": {
+        "type": "high_top_chunky_sneakers",
+        "color_palette": [
+          "white",
+          "cream",
+          "yellow",
+          "gray"
+        ],
+        "style": "retro streetwear",
+        "details": [
+          "visible laces",
+          "thick sole",
+          "high ankle"
+        ]
+      }
+    },
+    "accessories": {
+      "necklaces": {
+        "quantity": "multiple",
+        "style": "layered chains",
+        "material": "silver tone"
+      },
+      "earrings": {
+        "type": "medium hoop earrings",
+        "material": "metallic"
+      },
+      "bracelets": {
+        "quantity": "multiple",
+        "style": "stacked",
+        "material": "mixed metallic"
+      },
+      "rings": {
+        "quantity": "multiple",
+        "placement": "several fingers"
+      },
+      "watch": {
+        "presence": true,
+        "style": "large metallic wristwatch"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "full body",
+    "camera_distance": "close full-body",
+    "perspective": "wide-angle environmental portrait",
+    "subject_scale": "large and dominant in frame",
+    "feet_emphasis": "strong due to low perspective",
+    "negative_space": "urban ruins and open sky above",
+    "symmetry": "roughly centered with wide leg framing"
+  },
+  "camera": {
+    "lens_equivalent": "approximately 24mm to 35mm",
+    "lens_type": "wide angle",
+    "camera_height": "low",
+    "camera_tilt": "slightly upward",
+    "focus": "sharp on subject",
+    "depth_of_field": "moderate",
+    "background_detail": "high",
+    "distortion": "intentional mild perspective exaggeration"
+  },
+  "lighting": {
+    "type": "natural_daylight",
+    "quality": "hard to semi-hard directional sunlight",
+    "direction": "upper front-left",
+    "contrast": "high",
+    "highlights": {
+      "strength": "bright",
+      "areas": [
+        "hair",
+        "face",
+        "shoulders",
+        "upper torso"
+      ]
+    },
+    "shadows": {
+      "strength": "deep",
+      "areas": [
+        "under arms",
+        "pants folds",
+        "ground debris",
+        "architectural recesses"
+      ]
+    },
+    "rim_light": {
+      "presence": true,
+      "effect": "sunlit halo around hair"
+    },
+    "overall_effect": "crisp cinematic urban sunlight"
+  },
+  "environment": {
+    "type": "abandoned_urban_ruin",
+    "location_style": "graffiti-covered derelict structure",
+    "background_elements": [
+      "weathered concrete walls",
+      "graffiti murals",
+      "open roof",
+      "visible sky",
+      "broken architectural surfaces",
+      "debris-covered ground",
+      "window openings"
+    ],
+    "architecture": {
+      "style": "industrial or abandoned concrete shell",
+      "condition": "weathered and distressed"
+    },
+    "ground": {
+      "type": "rough concrete with rubble",
+      "texture": "dusty, broken and uneven"
+    },
+    "depth": "medium-deep environmental perspective"
+  },
+  "color_grading": {
+    "palette": [
+      "mustard yellow",
+      "washed gray",
+      "white",
+      "muted blue",
+      "concrete beige",
+      "sky blue"
+    ],
+    "temperature": "warm subject with neutral-cool environment",
+    "contrast": "high",
+    "saturation": "moderate",
+    "black_level": "deep",
+    "highlight_rolloff": "crisp",
+    "overall_feel": "sunlit gritty street-fashion editorial"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "squat_stance": 1.0,
+    "hand_position": 0.98,
+    "camera_angle": 0.95,
+    "wide_angle_perspective": 0.95,
+    "clothing_structure": 1.0,
+    "hair_style": 0.9,
+    "footwear": 0.9,
+    "accessories": 0.9,
+    "lighting": 0.95,
+    "graffiti_environment": 1.0,
+    "color_grading": 0.9,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "deep squat pose",
+      "wide knee stance",
+      "hands relaxed between knees",
+      "direct camera gaze",
+      "slightly low wide-angle camera",
+      "full-body framing",
+      "cropped oversized yellow graphic shirt",
+      "baggy gray jogger cargo pants",
+      "high-top chunky sneakers",
+      "layered metallic accessories",
+      "double-bun hairstyle structure when desired",
+      "abandoned graffiti-covered environment",
+      "strong daylight",
+      "hair rim light",
+      "gritty urban editorial atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color unless explicitly transferring hairstyle",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use the source image as reference for pose, wardrobe, camera angle, environment, lighting and styling. Preserve the target person's identity and natural body proportions."
+  }
+}
