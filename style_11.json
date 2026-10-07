@@ -1,0 +1,215 @@
+{
+  "style_id": "style_11",
+  "name": "Black and White Intimate Smile Portrait",
+  "image_reference": {
+    "type": "black_and_white_lifestyle_portrait",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "seated_three_quarter_portrait",
+    "camera_angle": "eye_level",
+    "camera_position": "close portrait distance",
+    "subject_position": "centered",
+    "visual_style": [
+      "black and white portrait",
+      "intimate lifestyle photography",
+      "soft natural beauty",
+      "minimal editorial",
+      "candid seated portrait"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "slightly angled",
+      "hips": "seated and turned subtly",
+      "shoulders": "relaxed",
+      "head": "mostly frontal"
+    },
+    "pose": {
+      "overall": "relaxed seated portrait with chin supported by hand",
+      "movement": "static candid pose",
+      "head": {
+        "direction": "facing camera",
+        "tilt": "very slight",
+        "chin": "resting on hand"
+      },
+      "gaze": {
+        "direction": "directly at camera",
+        "expression": "warm and friendly"
+      },
+      "left_arm": {
+        "position": "bent upward",
+        "elbow": "supported near knee or lap",
+        "hand_position": "supporting chin and cheek"
+      },
+      "right_arm": {
+        "position": "relaxed downward",
+        "elbow": "soft bend",
+        "hand_position": "resting outside main focal area"
+      },
+      "legs": {
+        "stance": "seated with knees bent toward camera",
+        "front_knee": "prominent in foreground",
+        "rear_knee": "slightly lower and offset",
+        "composition_role": "frames lower half of portrait"
+      },
+      "expression": {
+        "mood": [
+          "warm",
+          "friendly",
+          "natural",
+          "intimate",
+          "approachable"
+        ],
+        "mouth": "broad natural smile with teeth visible",
+        "eyes": "direct eye contact"
+      }
+    },
+    "hair": {
+      "color": "dark",
+      "length": "very long",
+      "texture": "straight with slight natural wave",
+      "style": "loose over shoulders",
+      "parting": "soft side part",
+      "details": [
+        "full volume",
+        "natural fall",
+        "slightly tousled ends"
+      ]
+    },
+    "makeup": {
+      "style": "natural beauty",
+      "eyes": [
+        "defined lashes",
+        "subtle liner",
+        "clean brows"
+      ],
+      "lips": "natural tone rendered in grayscale",
+      "complexion": "smooth natural finish"
+    },
+    "clothing": {
+      "visibility": "minimal in frame",
+      "style": "simple sleeveless or minimal dark garment",
+      "details": [
+        "clothing intentionally understated",
+        "focus remains on face, hair and pose"
+      ]
+    }
+  },
+  "composition": {
+    "body_crop": "from knees to above head",
+    "camera_distance": "close to medium-close",
+    "perspective": "natural intimate portrait perspective",
+    "subject_scale": "dominant in frame",
+    "foreground_emphasis": "bent knees create depth",
+    "negative_space": "plain light wall",
+    "framing_style": "tight vertical seated portrait"
+  },
+  "camera": {
+    "lens_equivalent": "approximately 50mm to 85mm",
+    "lens_type": "portrait lens",
+    "camera_height": "eye level",
+    "camera_tilt": "minimal",
+    "focus": "sharp on eyes and smile",
+    "depth_of_field": "moderate",
+    "background_blur": "light",
+    "distortion": "minimal"
+  },
+  "lighting": {
+    "type": "soft diffused natural or studio light",
+    "quality": "very soft",
+    "direction": "frontal to slight side",
+    "contrast": "low to medium",
+    "highlights": {
+      "strength": "gentle",
+      "areas": [
+        "forehead",
+        "cheeks",
+        "nose",
+        "arms",
+        "knees"
+      ]
+    },
+    "shadows": {
+      "strength": "soft",
+      "areas": [
+        "under chin",
+        "under hair",
+        "arm overlaps",
+        "leg contours"
+      ]
+    },
+    "skin_rendering": "smooth monochrome tonal transitions",
+    "overall_effect": "soft luminous black-and-white portrait"
+  },
+  "environment": {
+    "type": "minimal_indoor_setting",
+    "location_style": "plain room or studio",
+    "background_elements": [
+      "smooth light wall",
+      "soft light surface at bottom"
+    ],
+    "depth": "shallow",
+    "visual_noise": "very low"
+  },
+  "color_grading": {
+    "mode": "black_and_white",
+    "palette": [
+      "deep black",
+      "charcoal gray",
+      "mid gray",
+      "soft white"
+    ],
+    "contrast": "moderate",
+    "black_level": "deep but not crushed",
+    "highlight_rolloff": "soft",
+    "grain": "minimal",
+    "overall_feel": "clean timeless monochrome portrait"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "chin_on_hand": 1.0,
+    "seated_knee_composition": 1.0,
+    "facial_expression": 1.0,
+    "direct_gaze": 1.0,
+    "hair_shape": 0.95,
+    "framing": 0.95,
+    "lighting": 0.95,
+    "black_and_white_grading": 1.0,
+    "background": 0.85,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "seated pose",
+      "knees bent toward camera",
+      "chin resting on hand",
+      "direct eye contact",
+      "broad natural smile",
+      "very long loose dark hair",
+      "tight intimate framing",
+      "plain light background",
+      "soft diffused lighting",
+      "black-and-white tonal treatment",
+      "warm candid editorial atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone translated naturally into grayscale",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color translated into grayscale unless explicitly changed",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use the source image only as reference for seated pose, hand placement, smile, framing, lighting, hair arrangement and monochrome treatment. Preserve the target person's identity and natural anatomy."
+  }
+}
