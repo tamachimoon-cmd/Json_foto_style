@@ -1,0 +1,295 @@
+{
+  "style_id": "style_9",
+  "name": "Pastel Goth Concrete Editorial",
+  "image_reference": {
+    "type": "alternative_fashion_editorial",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "three_quarter_body",
+    "camera_angle": "eye_level",
+    "camera_position": "medium portrait distance",
+    "subject_position": "centered",
+    "visual_style": [
+      "pastel goth",
+      "alternative fashion",
+      "gothic street editorial",
+      "industrial portrait",
+      "dark romantic fashion"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "mostly frontal with slight lean",
+      "hips": "slightly shifted",
+      "shoulders": "relaxed and subtly asymmetric",
+      "head": "slightly tilted"
+    },
+    "pose": {
+      "overall": "confident standing editorial pose beside distressed concrete wall",
+      "movement": "static",
+      "head": {
+        "direction": "facing camera",
+        "rotation": "minimal",
+        "tilt": "slight",
+        "chin": "neutral to slightly lowered"
+      },
+      "gaze": {
+        "direction": "directly at camera",
+        "expression": "intense, composed and mysterious"
+      },
+      "left_arm": {
+        "position": "relaxed downward",
+        "elbow": "slightly bent",
+        "hand_position": "beside skirt"
+      },
+      "right_arm": {
+        "position": "bent naturally at side",
+        "elbow": "relaxed",
+        "hand_position": "resting lightly on upper skirt/hip"
+      },
+      "legs": {
+        "stance": "standing with slight asymmetry",
+        "weight_distribution": "mostly on one leg",
+        "visibility": "upper thighs visible"
+      },
+      "expression": {
+        "mood": [
+          "serious",
+          "gothic",
+          "confident",
+          "editorial",
+          "slightly aloof"
+        ],
+        "mouth": "closed",
+        "eyes": "direct eye contact"
+      }
+    },
+    "hair": {
+      "color": "black with deep purple streaks",
+      "length": "long",
+      "texture": "straight",
+      "style": "loose",
+      "bangs": "short blunt straight bangs",
+      "details": [
+        "sleek dark finish",
+        "visible purple sections concentrated on one side",
+        "face-framing strands"
+      ]
+    },
+    "makeup": {
+      "style": "dramatic goth makeup",
+      "eyes": [
+        "heavy black eyeliner",
+        "extended wing",
+        "dark smoky shadow",
+        "defined lower lash line"
+      ],
+      "lips": "very dark plum or black lipstick",
+      "complexion": "pale matte finish",
+      "details": [
+        "high contrast eye makeup",
+        "sharp brows",
+        "dark romantic styling"
+      ]
+    },
+    "clothing": {
+      "top": {
+        "type": "cropped_long_sleeve_top",
+        "color": "black",
+        "fit": "fitted",
+        "length": "cropped above waist",
+        "neckline": "wide scoop neckline",
+        "details": [
+          "white script graphic",
+          "white butterfly motif",
+          "subtle lettuce-edge hem"
+        ]
+      },
+      "bottom": {
+        "type": "layered_pleated_mini_skirt",
+        "primary_color": "pink plaid",
+        "secondary_colors": [
+          "black",
+          "dark plum"
+        ],
+        "fit": "structured",
+        "length": "mini",
+        "details": [
+          "multiple ruffled tiers",
+          "black lace edging",
+          "black vertical strap accents",
+          "metal studs",
+          "decorative gothic hardware"
+        ]
+      },
+      "legwear": {
+        "type": "thigh_high_fishnet_combination",
+        "color": "black",
+        "details": [
+          "wide thigh band",
+          "fishnet texture visible below skirt"
+        ]
+      }
+    },
+    "accessories": {
+      "choker": {
+        "type": "ornate black lace choker",
+        "details": [
+          "central gothic pendant",
+          "layered lace texture"
+        ]
+      },
+      "necklaces": {
+        "quantity": "multiple",
+        "style": "layered gothic chains",
+        "material": "dark silver tone",
+        "details": [
+          "cross pendant",
+          "small medallion",
+          "mixed chain lengths"
+        ]
+      },
+      "earrings": {
+        "type": "multiple small hoop and stud earrings",
+        "material": "silver tone"
+      },
+      "watch": {
+        "presence": true,
+        "style": "small round analog wristwatch",
+        "placement": "right wrist"
+      },
+      "nails": {
+        "color": "black",
+        "shape": "medium length",
+        "finish": "glossy"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "from upper thighs to above head",
+    "camera_distance": "medium portrait distance",
+    "perspective": "natural portrait perspective",
+    "subject_scale": "dominant in frame",
+    "negative_space": "narrow distressed concrete corridor behind subject",
+    "framing_style": "centered alternative fashion portrait",
+    "wall_interaction": "subject positioned close to rough concrete wall on left"
+  },
+  "camera": {
+    "lens_equivalent": "approximately 50mm to 85mm",
+    "lens_type": "portrait lens",
+    "camera_height": "eye level",
+    "camera_tilt": "minimal",
+    "focus": "sharp on face and outfit",
+    "depth_of_field": "moderate",
+    "background_blur": "light",
+    "distortion": "minimal"
+  },
+  "lighting": {
+    "type": "soft diffused daylight",
+    "quality": "soft",
+    "direction": "frontal to slight side",
+    "contrast": "medium",
+    "highlights": {
+      "strength": "controlled",
+      "areas": [
+        "face",
+        "hair",
+        "upper chest",
+        "skirt texture"
+      ]
+    },
+    "shadows": {
+      "strength": "moderate",
+      "areas": [
+        "under hair",
+        "neck",
+        "wall recesses",
+        "skirt folds"
+      ]
+    },
+    "skin_rendering": "clean matte editorial finish",
+    "overall_effect": "moody but polished alternative portrait"
+  },
+  "environment": {
+    "type": "distressed_concrete_corridor",
+    "location_style": "industrial or abandoned interior",
+    "background_elements": [
+      "rough weathered concrete wall",
+      "gray plaster texture",
+      "narrow corridor depth",
+      "subtle architectural decay"
+    ],
+    "color": "neutral gray",
+    "depth": "medium"
+  },
+  "color_grading": {
+    "palette": [
+      "black",
+      "pink plaid",
+      "deep purple",
+      "gray concrete",
+      "pale neutral skin tones"
+    ],
+    "temperature": "neutral to slightly cool",
+    "contrast": "moderate to high",
+    "saturation": "moderate",
+    "black_level": "deep",
+    "overall_feel": "moody pastel-goth editorial"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "body_orientation": 0.95,
+    "hand_position": 0.95,
+    "framing": 0.95,
+    "hair_style": 1.0,
+    "makeup": 1.0,
+    "clothing_structure": 1.0,
+    "skirt_layering": 1.0,
+    "accessories": 0.98,
+    "lighting": 0.9,
+    "industrial_environment": 0.9,
+    "color_grading": 0.95,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "standing editorial pose",
+      "direct camera gaze",
+      "slight head tilt",
+      "long black hair with blunt bangs",
+      "deep purple hair streaks",
+      "dramatic black goth eye makeup",
+      "dark plum-black lipstick",
+      "black cropped long-sleeve top",
+      "white butterfly and script chest graphics",
+      "pink-and-black plaid layered mini skirt",
+      "black lace skirt trim",
+      "gothic straps and studs",
+      "black thigh-high/fishnet legwear",
+      "ornate black lace choker",
+      "layered gothic necklaces",
+      "black manicure",
+      "weathered concrete wall",
+      "soft diffused lighting",
+      "pastel-goth editorial atmosphere"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use this image as reference for pose, wardrobe, makeup, hair styling, accessories, framing, lighting and environment. Preserve the target person's identity and natural anatomy. Ignore screenshot interface elements, black bars, close button, pagination text and any surrounding viewer UI."
+  }
+}
