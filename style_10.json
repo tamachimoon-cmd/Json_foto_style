@@ -1,0 +1,263 @@
+{
+  "style_id": "style_10",
+  "name": "Fitting Room Black Romper Mirror Selfie",
+  "image_reference": {
+    "type": "fashion_fitting_room_mirror_selfie",
+    "orientation": "vertical",
+    "aspect_ratio": "9:16",
+    "framing": "full_body",
+    "camera_angle": "eye_level",
+    "camera_position": "mirror selfie distance",
+    "subject_position": "centered",
+    "visual_style": [
+      "fashion fitting room",
+      "mirror selfie",
+      "black mini romper",
+      "retail try-on photography",
+      "casual glam"
+    ]
+  },
+  "subject": {
+    "gender_presentation": "female",
+    "age_appearance": "young_adult",
+    "body_orientation": {
+      "torso": "mostly frontal",
+      "hips": "slightly angled",
+      "shoulders": "relaxed and asymmetric",
+      "head": "slightly turned toward phone"
+    },
+    "pose": {
+      "overall": "confident full-body mirror selfie pose",
+      "movement": "static",
+      "head": {
+        "direction": "toward phone and mirror",
+        "tilt": "slight",
+        "chin": "neutral"
+      },
+      "gaze": {
+        "direction": "toward phone screen",
+        "expression": "confident and composed"
+      },
+      "left_arm": {
+        "position": "bent outward",
+        "elbow": "angled",
+        "hand_position": "resting on hip"
+      },
+      "right_arm": {
+        "position": "raised in front of face",
+        "elbow": "bent",
+        "hand_position": "holding smartphone"
+      },
+      "legs": {
+        "stance": "asymmetrical standing pose",
+        "front_leg": "slightly forward and angled",
+        "rear_leg": "supporting",
+        "feet": "apart for fashion stance"
+      },
+      "expression": {
+        "mood": [
+          "confident",
+          "polished",
+          "feminine",
+          "retail-fashion",
+          "casual glam"
+        ],
+        "mouth": "relaxed",
+        "eyes": "focused on phone or reflection"
+      }
+    },
+    "hair": {
+      "color": "dark brown to black",
+      "length": "long",
+      "texture": "wavy",
+      "style": "loose over shoulders",
+      "parting": "center or soft side part",
+      "details": [
+        "polished waves",
+        "full volume"
+      ]
+    },
+    "makeup": {
+      "style": "soft glam",
+      "eyes": [
+        "defined lashes",
+        "subtle eyeliner"
+      ],
+      "lips": "soft pink or nude",
+      "complexion": "smooth and warm"
+    },
+    "clothing": {
+      "main_piece": {
+        "type": "short_black_romper_or_playsuit",
+        "color": "black",
+        "fit": "fitted bodice with flared layered shorts",
+        "neckline": "square neckline",
+        "straps": "thin spaghetti straps",
+        "length": "very short",
+        "details": [
+          "cinched waist",
+          "double layered flared hem",
+          "clean monochrome styling",
+          "dress-like silhouette"
+        ]
+      },
+      "footwear": {
+        "type": "high_heel_sandals",
+        "color": "black",
+        "style": "minimal strappy heels",
+        "details": [
+          "thin ankle straps",
+          "open toe",
+          "slim high heel"
+        ]
+      }
+    },
+    "accessories": {
+      "earrings": {
+        "type": "medium metallic hoop earrings",
+        "material": "gold tone"
+      },
+      "necklace": {
+        "type": "small delicate necklace",
+        "material": "gold tone"
+      },
+      "smartphone": {
+        "type": "dark modern smartphone",
+        "role": "mirror-selfie prop"
+      }
+    }
+  },
+  "composition": {
+    "body_crop": "full body including shoes",
+    "camera_distance": "mirror selfie full-body distance",
+    "perspective": "natural smartphone mirror perspective",
+    "subject_scale": "large in frame",
+    "negative_space": "fitting-room walls, curtains and floor",
+    "framing_style": "retail try-on mirror selfie"
+  },
+  "camera": {
+    "capture_method": "mirror selfie",
+    "device_style": "smartphone camera",
+    "lens_equivalent": "approximately 24mm to 28mm",
+    "camera_height": "upper torso to eye level",
+    "camera_tilt": "minimal",
+    "focus": "subject and outfit",
+    "depth_of_field": "deep",
+    "background_blur": "minimal",
+    "distortion": "mild smartphone wide-angle"
+  },
+  "lighting": {
+    "type": "fitting_room indoor lighting",
+    "quality": "soft bright frontal illumination",
+    "direction": "mirror-side and overhead ambient",
+    "contrast": "medium",
+    "highlights": {
+      "strength": "controlled",
+      "areas": [
+        "face",
+        "shoulders",
+        "legs",
+        "black outfit edges"
+      ]
+    },
+    "shadows": {
+      "strength": "soft",
+      "areas": [
+        "under skirt layers",
+        "behind body",
+        "curtain folds"
+      ]
+    },
+    "skin_rendering": "warm and polished",
+    "overall_effect": "clean retail try-on glamour"
+  },
+  "environment": {
+    "type": "clothing_store_fitting_room",
+    "location_style": "modern retail dressing room",
+    "background_elements": [
+      "full-length mirror",
+      "gray fitting-room curtains",
+      "light wood or laminate floor",
+      "small padded bench",
+      "wall hooks",
+      "neutral beige walls"
+    ],
+    "depth": "medium",
+    "screen_capture_elements": {
+      "present": true,
+      "elements": [
+        "mobile app top navigation",
+        "product counter",
+        "shopping interface",
+        "price panel",
+        "buy button",
+        "share control",
+        "bottom navigation bar"
+      ],
+      "usage_note": "ignore and remove all screenshot UI, app overlays, pricing, logos, counters, buttons and navigation elements when reapplying the style"
+    }
+  },
+  "color_grading": {
+    "palette": [
+      "black",
+      "warm beige",
+      "gray",
+      "wood tones",
+      "natural warm skin tones"
+    ],
+    "temperature": "neutral to slightly warm",
+    "contrast": "moderate",
+    "saturation": "moderate",
+    "black_level": "deep",
+    "overall_feel": "clean polished fitting-room fashion"
+  },
+  "reference_priority": {
+    "pose": 1.0,
+    "mirror_selfie_structure": 1.0,
+    "hand_on_hip": 1.0,
+    "phone_position": 1.0,
+    "full_body_framing": 1.0,
+    "clothing_structure": 1.0,
+    "layered_hem": 0.98,
+    "footwear": 0.95,
+    "hair_style": 0.9,
+    "lighting": 0.9,
+    "fitting_room_environment": 0.95,
+    "source_face_identity": 0.0
+  },
+  "replacement_instruction": {
+    "preserve_from_reference": [
+      "full-body fitting-room mirror selfie",
+      "phone held in front of face",
+      "opposite hand on hip",
+      "asymmetrical confident stance",
+      "black fitted mini romper",
+      "square neckline",
+      "thin shoulder straps",
+      "layered flared hem",
+      "black strappy high heels",
+      "long loose wavy hair styling",
+      "gray fitting-room curtains",
+      "neutral retail fitting-room environment",
+      "soft bright indoor lighting",
+      "clean casual-glam retail aesthetic"
+    ],
+    "replace": [
+      "original subject identity",
+      "facial identity",
+      "personal physical features"
+    ],
+    "preserve_target_identity": [
+      "face",
+      "skin tone",
+      "eye shape",
+      "nose",
+      "mouth",
+      "jawline",
+      "hair color unless explicitly changed",
+      "body proportions",
+      "distinctive features"
+    ],
+    "important": "When applying this JSON to another person, use the source image only as reference for pose, outfit, mirror-selfie framing, footwear, lighting and fitting-room environment. Preserve the target person's identity and natural anatomy. Remove all screenshot interface elements, text, prices, logos, counters, buttons and app navigation from the final generated image."
+  }
+}
